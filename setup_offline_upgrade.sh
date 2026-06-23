@@ -15,9 +15,9 @@ echo "Downloading meta-release files from changelogs.ubuntu.com..."
 FILES=(
     "meta-release"
     "meta-release-development"
-    "meta-release-lts"
-    "meta-release-development"
     "meta-release-proposed"
+    "meta-release-lts"
+    "meta-release-lts-development"
     "meta-release-lts-proposed"
 )
 
